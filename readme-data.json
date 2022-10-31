@@ -1,0 +1,285 @@
+{
+    "tags": [
+        {
+            "name": "TypeScript",
+            "badge": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
+            "link": "#TypeScriptJavaScript"
+        },
+        {
+            "name": "Python",
+            "badge": "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue",
+            "link": "#Python"
+        },
+        {
+            "name": "JavaScript",
+            "badge": "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E",
+            "link": "#TypeScriptJavaScript"
+        },
+        {
+            "name": "vscode",
+            "badge": "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+        },
+        {
+            "name": "saas",
+            "badge": "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white",
+            "link": "#SaaS"
+        },
+        {
+            "name": "Node.js",
+            "badge": "https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white",
+            "link": "#node.js"
+        },
+        {
+            "name": "React",
+            "badge": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB",
+            "link": "#react"
+        },
+        {
+            "name": "Next.js",
+            "badge": "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white",
+            "link": "#next.js"
+        },
+        {
+            "name": "React Native",
+            "badge": "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB",
+            "link": "#react-native"
+        },
+        {
+            "name": "Expo",
+            "badge": "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white",
+            "link": "#expo"
+        },
+        {
+            "name": "Express",
+            "badge": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white",
+            "link": "#ExpressFastify"
+        },
+        {
+            "name": "MongoDB",
+            "badge": "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white",
+            "link": "#mongodb"
+        },
+        {
+            "name": "PostgreSQL",
+            "badge": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white",
+            "link": "#MySQLPostgreSQL"
+        },
+        {
+            "name": "Redis",
+            "badge": "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white",
+            "link": "#redis"
+        },
+        {
+            "name": "Amazon AWS",
+            "badge": "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white",
+            "link": "#amazon-aws"
+        }
+    ],
+    "expertise": {
+        "frameworks": [
+            "React",
+            "React Native",
+            "TailwindCSS",
+            "Next.js",
+            "Expo",
+            "Express/Fastify",
+            "Node.js"
+        ],
+        "databases": [
+            "MySQL/PostgreSQL",
+            "MongoDB",
+            "DynamoDB",
+            "Redis"
+        ],
+        "languages": [
+            "TypeScript/JavaScript",
+            "HTML",
+            "CSS",
+            "SCSS",
+            "GraphQL",
+            "Python",
+            "Bash/Shell"
+        ],
+        "AWS": [
+            "Lambda",
+            "Cognito",
+            "S3",
+            "DynamoDB",
+            "Route 53",
+            "Amplify",
+            "EC2",
+            "IAM",
+            "SES"
+        ]
+    },
+    "projects": [
+        {
+            "name": "FilmPro",
+            "description": "Easy invoicing + payments for the film & television industry.",
+            "tags": [
+                "React Native",
+                "Expo",
+                "Next.js",
+                "React",
+                "TailwindCSS",
+                "Cognito",
+                "Lambda",
+                "S3",
+                "DynamoDB",
+                "Route 53",
+                "Amplify",
+                "SES",
+                "TypeScript/JavaScript",
+                "HTML",
+                "CSS",
+                "GraphQL",
+                "IAM"
+            ],
+            "line": "Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules.",
+            "links": [
+                {
+                    "name": "Splash Page",
+                    "href": "https://filmpro.app/"
+                },
+                {
+                    "name": "iOS App",
+                    "href": "https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200"
+                },
+                {
+                    "name": "Android App",
+                    "href": "https://play.google.com/store/apps/details?id=app.filmpro.fp"
+                }
+            ]
+        },
+        {
+            "name": "Easybase",
+            "description": "Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_",
+            "tags": [
+                "React",
+                "Next.js",
+                "TailwindCSS",
+                "Cognito",
+                "Lambda",
+                "S3",
+                "MySQL/PostgreSQL",
+                "Amplify",
+                "SES",
+                "TypeScript/JavaScript",
+                "HTML",
+                "CSS",
+                "EC2",
+                "Redis",
+                "Express/Fastify",
+                "IAM"
+            ],
+            "line": "Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules.",
+            "links": [
+                {
+                    "name": "Landing Page",
+                    "href": "https://easybase.io/"
+                },
+                {
+                    "name": "Documentation",
+                    "href": "https://docs.easybase.io/"
+                }
+            ]
+        },
+        {
+            "name": "Keagate",
+            "description": "Open-source, high-performance alternative to popular cryptocurrency payment gateways.",
+            "tags": [
+                "Express/Fastify",
+                "Node.js",
+                "Bash/Shell",
+                "TypeScript/JavaScript"
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "https://github.com/dilan-dio4/Keagate"
+                },
+                {
+                    "name": "Video Demo",
+                    "href": "https://www.youtube.com/watch?v=dxMZIbeRJac"
+                }
+            ]
+        },
+        {
+            "name": "Next.js Wordle + Analytics",
+            "description": "Open-source, mobile-friendly Wordle implementation with ticketing and analytics.",
+            "tags": [
+                "React",
+                "Next.js",
+                "TypeScript/JavaScript",
+                "TailwindCSS"
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "TODO"
+                },
+                {
+                    "name": "Website",
+                    "href": "TODO"
+                }
+            ]
+        }
+    ],
+    "bonus": [
+        {
+            "name": "Python reCAPTCHA Bot",
+            "description": "Open-source, high-performance alternative to popular cryptocurrency payment gateways.",
+            "tags": [
+                "Python",
+                "Bash/Shell"
+            ],
+            "links": [
+                {
+                    "name": "Video Demo",
+                    "href": "https://www.youtube.com/watch?v=YzjsXqnAO8w"
+                }
+            ]
+        },
+        {
+            "name": "Landingjoy Landing Page",
+            "description": "Animated, mobile-friendly, SEO-optimized agency landing page.",
+            "tags": [
+                "React",
+                "Next.js",
+                "TypeScript/JavaScript",
+                "TailwindCSS"
+            ],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://landingjoy.com/"
+                }
+            ]
+        },
+        {
+            "name": "Awesome HTTP",
+            "description": "A curated list of the best HTTP clients for various languages & libraries.",
+            "tags": [],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "https://github.com/easybase/awesome-http"
+                }
+            ]
+        },
+        {
+            "name": "React Avatar Group",
+            "description": "A responsive avatar group component to display an application's active users, similar to that of Google Docs.",
+            "tags": [
+                "React",
+                "TypeScript/JavaScript"
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "https://github.com/easybase/react-avatar-group"
+                }
+            ]
+        }
+    ]
+}

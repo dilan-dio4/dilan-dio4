@@ -15,9 +15,9 @@
 [![GitHub badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#typescriptjavascript)
 ![GitHub badge vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![GitHub badge saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#saas)
-[![GitHub badge Node.js](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)](#node.js)
+[![GitHub badge Node.js](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)](#nodejs)
 [![GitHub badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react)
-[![GitHub badge Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#next.js)
+[![GitHub badge Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#nextjs)
 [![GitHub badge React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react-native)
 [![GitHub badge Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](#expo)
 [![GitHub badge Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#expressfastify)
@@ -44,24 +44,24 @@
 * React ([_Index_](#react))
 * React Native ([_Index_](#react-native))
 * TailwindCSS ([_Index_](#tailwindcss))
-* Next.js ([_Index_](#next.js))
+* Next.js ([_Index_](#nextjs))
 * Expo ([_Index_](#expo))
-* Express/Fastify ([_Index_](#express/fastify))
-* Node.js ([_Index_](#node.js))
+* Express/Fastify ([_Index_](#expressfastify))
+* Node.js ([_Index_](#nodejs))
 
 **Languages 🔡**
 
-* TypeScript/JavaScript ([_Index_](#typescript/javascript))
+* TypeScript/JavaScript ([_Index_](#typescriptjavascript))
 * HTML ([_Index_](#html))
 * CSS ([_Index_](#css))
 * SCSS ([_Index_](#scss))
 * GraphQL ([_Index_](#graphql))
 * Python ([_Index_](#python))
-* Bash/Shell ([_Index_](#bash/shell))
+* Bash/Shell ([_Index_](#bashshell))
 
 **Databases 📊**
 
-* MySQL/PostgreSQL ([_Index_](#mysql/postgresql))
+* MySQL/PostgreSQL ([_Index_](#mysqlpostgresql))
 * MongoDB ([_Index_](#mongodb))
 * DynamoDB ([_Index_](#dynamodb))
 * Redis ([_Index_](#redis))
@@ -80,29 +80,30 @@
 ## Projects
 
 ### Technical products that I have built
-Name | Description | Technologies
----- | ----------- | ---------------
-[<h5>FilmPro</h5>](https://filmpro.app/) | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#next.js), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescript/javascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql) </sup>
-[<h5>Easybase</h5>](https://easybase.io/) | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React](#react), [Next.js](#next.js), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [PostgreSQL](#postgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescript/javascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#express/fastify) </sup>
-[<h5>Keagate</h5>](https://github.com/dilan-dio4/Keagate) | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Express/Fastify](#express/fastify), [Node.js](#node.js), [Bash/Shell](#bash/shell), [TypeScript/JavaScript](#typescript/javascript) </sup>
-[<h5>Next.js Wordle + Analytics</h5>](https://github.com/dilan-dio4/Keagate) | Open-source, mobile-friendly Wordle implementation with ticketing and analytics. | <sup> [React](#react), [Next.js](#next.js), [TypeScript/JavaScript](#typescript/javascript), [TailwindCSS](#tailwindcss) </sup>
+Name | Description | Technologies | Links
+--- | --- | :---: | :---:
+ **<h5>FilmPro</h5>** | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#nextjs), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql) </sup> | <div><a href="https://filmpro.app/" target="_blank"><sup>Splash Page</sup></a><br /><a href="https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200" target="_blank"><sup>iOS App</sup></a><br /><a href="https://play.google.com/store/apps/details?id=app.filmpro.fp" target="_blank"><sup>Android App</sup></a><br /></div>
+ **<h5>Easybase</h5>** | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React](#react), [Next.js](#nextjs), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [MySQL/PostgreSQL](#mysqlpostgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#expressfastify) </sup> | <div><a href="https://easybase.io/" target="_blank"><sup>Landing Page</sup></a><br /><a href="https://docs.easybase.io/" target="_blank"><sup>Documentation</sup></a><br /></div>
+ **<h5>Keagate</h5>** | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Express/Fastify](#expressfastify), [Node.js](#nodejs), [Bash/Shell](#bashshell), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/dilan-dio4/Keagate" target="_blank"><sup>Repo</sup></a><br /><a href="https://www.youtube.com/watch?v=dxMZIbeRJac" target="_blank"><sup>Video Demo</sup></a><br /></div>
+ **<h5>Next.js Wordle + Analytics</h5>** | Open-source, mobile-friendly Wordle implementation with ticketing and analytics. | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="TODO" target="_blank"><sup>Repo</sup></a><br /><a href="TODO" target="_blank"><sup>Website</sup></a><br /></div>
 
 ## Bonus
 
 ### Miscellaneous projects I've built
 
-Name | Description | Technologies
----- | ----------- | ---------------
-<a href="https://www.youtube.com/watch?v=YzjsXqnAO8w"><h5>Python reCAPTCHA Bot</h5></a> ![External link](./external-link.svg) | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Python](#python), [Bash/Shell](#bash/shell) </sup>
-<a href="https://landingjoy.com/"><h5>Landingjoy Landing Page</h5></a> ![External link](./external-link.svg) | Animated, mobile-friendly, SEO-optimized agency landing page. | <sup> [React](#react), [Next.js](#next.js), [TypeScript/JavaScript](#typescript/javascript), [TailwindCSS](#tailwindcss) </sup>
-<a href="https://github.com/easybase/awesome-http"><h5>Awesome HTTP</h5></a> ![External link](./external-link.svg) | A curated list of the best HTTP clients for various languages & libraries. | <sup>  </sup>
-<a href="https://github.com/easybase/react-avatar-group"><h5>React Avatar Group</h5></a> ![External link](./external-link.svg) | A responsive avatar group component to display an application's active users, similar to that of Go… | <sup> [React](#react), [TypeScript/JavaScript](#typescript/javascript) </sup>
+Name | Description | Technologies | Links
+--- | --- | :---: | :---:
+ **<h5>Python reCAPTCHA Bot</h5>** | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Python](#python), [Bash/Shell](#bashshell) </sup> | <div><a href="https://www.youtube.com/watch?v=YzjsXqnAO8w" target="_blank"><sup>Video Demo</sup></a><br /></div>
+ **<h5>Landingjoy Landing Page</h5>** | Animated, mobile-friendly, SEO-optimized agency landing page. | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="https://landingjoy.com/" target="_blank"><sup>Website</sup></a><br /></div>
+ **<h5>Awesome HTTP</h5>** | A curated list of the best HTTP clients for various languages & libraries. | <sup>  </sup> | <div><a href="https://github.com/easybase/awesome-http" target="_blank"><sup>Repo</sup></a><br /></div>
+ **<h5>React Avatar Group</h5>** | A responsive avatar group component to display an application's active users, similar to that of Go… | <sup> [React](#react), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/easybase/react-avatar-group" target="_blank"><sup>Repo</sup></a><br /></div>
+
 ## Index
 
 ### Reference of language/frameworks to relevant projects
 <details><summary>
 
-##### **React Native**
+#### **React Native**
 
 </summary>
 
@@ -111,7 +112,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Expo**
+#### **Expo**
 
 </summary>
 
@@ -120,126 +121,44 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Next.js**
+#### **Next.js**
 
 </summary>
 
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#next.js-wordle-+-analytics)
+* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 
 
 </details><details><summary>
 
-##### **React**
+#### **React**
 
 </summary>
 
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#next.js-wordle-+-analytics)
-* [Landingjoy Landing Page](#landingjoy-landing-page)
-* [React Avatar Group](#react-avatar-group)
-
-
-</details><details><summary>
-
-##### **TailwindCSS**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#next.js-wordle-+-analytics)
-* [Landingjoy Landing Page](#landingjoy-landing-page)
-
-
-</details><details><summary>
-
-##### **Cognito**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-
-
-</details><details><summary>
-
-##### **Lambda**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-
-
-</details><details><summary>
-
-##### **S3**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-
-
-</details><details><summary>
-
-##### **DynamoDB**
-
-</summary>
-
-* [FilmPro](#filmpro)
-
-
-</details><details><summary>
-
-##### **Route 53**
-
-</summary>
-
-* [FilmPro](#filmpro)
-
-
-</details><details><summary>
-
-##### **Amplify**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-
-
-</details><details><summary>
-
-##### **SES**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-
-
-</details><details><summary>
-
-##### **TypeScript/JavaScript**
-
-</summary>
-
-* [FilmPro](#filmpro)
-* [Easybase](#easybase)
-* [Keagate](#keagate)
-* [Next.js Wordle + Analytics](#next.js-wordle-+-analytics)
+* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 * [React Avatar Group](#react-avatar-group)
 
 
 </details><details><summary>
 
-##### **HTML**
+#### **TailwindCSS**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Landingjoy Landing Page](#landingjoy-landing-page)
+
+
+</details><details><summary>
+
+#### **Cognito**
 
 </summary>
 
@@ -249,7 +168,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **CSS**
+#### **Lambda**
 
 </summary>
 
@@ -259,7 +178,17 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **GraphQL**
+#### **S3**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **DynamoDB**
 
 </summary>
 
@@ -268,7 +197,79 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **PostgreSQL**
+#### **Route 53**
+
+</summary>
+
+* [FilmPro](#filmpro)
+
+
+</details><details><summary>
+
+#### **Amplify**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **SES**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **TypeScript/JavaScript**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+* [Keagate](#keagate)
+* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Landingjoy Landing Page](#landingjoy-landing-page)
+* [React Avatar Group](#react-avatar-group)
+
+
+</details><details><summary>
+
+#### **HTML**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **CSS**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **GraphQL**
+
+</summary>
+
+* [FilmPro](#filmpro)
+
+
+</details><details><summary>
+
+#### **MySQL/PostgreSQL**
 
 </summary>
 
@@ -277,7 +278,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **EC2**
+#### **EC2**
 
 </summary>
 
@@ -286,7 +287,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Redis**
+#### **Redis**
 
 </summary>
 
@@ -295,7 +296,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Express/Fastify**
+#### **Express/Fastify**
 
 </summary>
 
@@ -305,7 +306,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Node.js**
+#### **Node.js**
 
 </summary>
 
@@ -314,7 +315,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Bash/Shell**
+#### **Bash/Shell**
 
 </summary>
 
@@ -324,7 +325,7 @@ Name | Description | Technologies
 
 </details><details><summary>
 
-##### **Python**
+#### **Python**
 
 </summary>
 
