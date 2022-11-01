@@ -62,8 +62,8 @@ async function main() {
 
 * [Skills](#Skills)
 * [Projects](#Projects)
-* [Index](#Index)
 * [Bonus](#bonus)
+* [Index](#Index)
 * [Contact](#contact)
 
 `

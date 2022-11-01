@@ -205,8 +205,8 @@
             ]
         },
         {
-            "name": "Next.js Wordle + Analytics",
-            "description": "Open-source, mobile-friendly Wordle implementation with ticketing and analytics.",
+            "name": "Wagering Wordle",
+            "description": "Open-source implementation of Wordle game with wagering & analytics built with Next.js, TailwindCSS and Flowbite. Web and mobile friendly.",
             "tags": [
                 "React",
                 "Next.js",
@@ -216,11 +216,11 @@
             "links": [
                 {
                     "name": "Repo",
-                    "href": "TODO"
+                    "href": "https://github.com/dilan-dio4/nextjs-tailwind-wordle"
                 },
                 {
-                    "name": "Website",
-                    "href": "TODO"
+                    "name": "Demo",
+                    "href": "https://nextjs-tailwind-wordle.netlify.app/"
                 }
             ]
         }
@@ -278,6 +278,10 @@
                 {
                     "name": "Repo",
                     "href": "https://github.com/easybase/react-avatar-group"
+                },
+                {
+                    "name": "Demo",
+                    "href": "https://easybase.github.io/react-avatar-group/"
                 }
             ]
         }
