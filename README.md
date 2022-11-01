@@ -33,8 +33,8 @@
 
 * [Skills](#Skills)
 * [Projects](#Projects)
-* [Index](#Index)
 * [Bonus](#bonus)
+* [Index](#Index)
 * [Contact](#contact)
 
 ## Skills
@@ -82,10 +82,10 @@
 ### Technical products that I have built
 Name | Description | Technologies | Links
 --- | --- | :---: | :---:
- **<h5>FilmPro</h5>** | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#nextjs), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql) </sup> | <div><a href="https://filmpro.app/" target="_blank"><sup>Splash Page</sup></a><br /><a href="https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200" target="_blank"><sup>iOS App</sup></a><br /><a href="https://play.google.com/store/apps/details?id=app.filmpro.fp" target="_blank"><sup>Android App</sup></a><br /></div>
- **<h5>Easybase</h5>** | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React](#react), [Next.js](#nextjs), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [MySQL/PostgreSQL](#mysqlpostgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#expressfastify) </sup> | <div><a href="https://easybase.io/" target="_blank"><sup>Landing Page</sup></a><br /><a href="https://docs.easybase.io/" target="_blank"><sup>Documentation</sup></a><br /></div>
+ **<h5>FilmPro</h5>** | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#nextjs), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql), [IAM](#iam) </sup> | <div><a href="https://filmpro.app/" target="_blank"><sup>Splash Page</sup></a><br /><a href="https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200" target="_blank"><sup>iOS App</sup></a><br /><a href="https://play.google.com/store/apps/details?id=app.filmpro.fp" target="_blank"><sup>Android App</sup></a><br /></div>
+ **<h5>Easybase</h5>** | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React](#react), [Next.js](#nextjs), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [MySQL/PostgreSQL](#mysqlpostgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#expressfastify), [IAM](#iam) </sup> | <div><a href="https://easybase.io/" target="_blank"><sup>Landing Page</sup></a><br /><a href="https://docs.easybase.io/" target="_blank"><sup>Documentation</sup></a><br /></div>
  **<h5>Keagate</h5>** | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Express/Fastify](#expressfastify), [Node.js](#nodejs), [Bash/Shell](#bashshell), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/dilan-dio4/Keagate" target="_blank"><sup>Repo</sup></a><br /><a href="https://www.youtube.com/watch?v=dxMZIbeRJac" target="_blank"><sup>Video Demo</sup></a><br /></div>
- **<h5>Next.js Wordle + Analytics</h5>** | Open-source, mobile-friendly Wordle implementation with ticketing and analytics. | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="TODO" target="_blank"><sup>Repo</sup></a><br /><a href="TODO" target="_blank"><sup>Website</sup></a><br /></div>
+ **<h5>Wagering Wordle</h5>** | Open-source implementation of Wordle game with wagering & analytics built with Next.js, TailwindCSS… | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="https://github.com/dilan-dio4/nextjs-tailwind-wordle" target="_blank"><sup>Repo</sup></a><br /><a href="https://nextjs-tailwind-wordle.netlify.app/" target="_blank"><sup>Demo</sup></a><br /></div>
 
 ## Bonus
 
@@ -96,7 +96,7 @@ Name | Description | Technologies | Links
  **<h5>Python reCAPTCHA Bot</h5>** | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Python](#python), [Bash/Shell](#bashshell) </sup> | <div><a href="https://www.youtube.com/watch?v=YzjsXqnAO8w" target="_blank"><sup>Video Demo</sup></a><br /></div>
  **<h5>Landingjoy Landing Page</h5>** | Animated, mobile-friendly, SEO-optimized agency landing page. | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="https://landingjoy.com/" target="_blank"><sup>Website</sup></a><br /></div>
  **<h5>Awesome HTTP</h5>** | A curated list of the best HTTP clients for various languages & libraries. | <sup>  </sup> | <div><a href="https://github.com/easybase/awesome-http" target="_blank"><sup>Repo</sup></a><br /></div>
- **<h5>React Avatar Group</h5>** | A responsive avatar group component to display an application's active users, similar to that of Go… | <sup> [React](#react), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/easybase/react-avatar-group" target="_blank"><sup>Repo</sup></a><br /></div>
+ **<h5>React Avatar Group</h5>** | A responsive avatar group component to display an application's active users, similar to that of Go… | <sup> [React](#react), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/easybase/react-avatar-group" target="_blank"><sup>Repo</sup></a><br /><a href="https://easybase.github.io/react-avatar-group/" target="_blank"><sup>Demo</sup></a><br /></div>
 
 ## Index
 
@@ -127,7 +127,7 @@ Name | Description | Technologies | Links
 
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Wagering Wordle](#wagering-wordle)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 
 
@@ -139,7 +139,7 @@ Name | Description | Technologies | Links
 
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Wagering Wordle](#wagering-wordle)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 * [React Avatar Group](#react-avatar-group)
 
@@ -152,7 +152,7 @@ Name | Description | Technologies | Links
 
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
-* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Wagering Wordle](#wagering-wordle)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 
 
@@ -233,7 +233,7 @@ Name | Description | Technologies | Links
 * [FilmPro](#filmpro)
 * [Easybase](#easybase)
 * [Keagate](#keagate)
-* [Next.js Wordle + Analytics](#nextjs-wordle-+-analytics)
+* [Wagering Wordle](#wagering-wordle)
 * [Landingjoy Landing Page](#landingjoy-landing-page)
 * [React Avatar Group](#react-avatar-group)
 
@@ -265,6 +265,16 @@ Name | Description | Technologies | Links
 </summary>
 
 * [FilmPro](#filmpro)
+
+
+</details><details><summary>
+
+#### **IAM**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
 
 
 </details><details><summary>
