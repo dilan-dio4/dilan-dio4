@@ -223,6 +223,25 @@
                     "href": "https://nextjs-tailwind-wordle.netlify.app/"
                 }
             ]
+        },
+        {
+            "name": "Tulsa",
+            "description": "Modern, accessible components for React & Next.js. Built with TailwindCSS + HeadlessUI as an alternative to Tailwind UI.",
+            "tags": [
+                "React",
+                "TypeScript/JavaScript",
+                "TailwindCSS"
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "https://github.com/dilan-dio4/tulsa"
+                },
+                {
+                    "name": "Library",
+                    "href": "https://dilan-dio4.github.io/tulsa/"
+                }
+            ]
         }
     ],
     "bonus": [
@@ -282,6 +301,25 @@
                 {
                     "name": "Demo",
                     "href": "https://easybase.github.io/react-avatar-group/"
+                }
+            ]
+        },
+        {
+            "name": "use-safe-async-mount",
+            "description": "React & React Native hook for mounting asynchronous components with type-safe definitions.",
+            "tags": [
+                "React",
+                "React Native",
+                "TypeScript/JavaScript"
+            ],
+            "links": [
+                {
+                    "name": "Repo",
+                    "href": "https://github.com/dilan-dio4/use-safe-async-mount"
+                },
+                {
+                    "name": "Demo",
+                    "href": "https://dilan-dio4.github.io/use-safe-async-mount/test/"
                 }
             ]
         }
