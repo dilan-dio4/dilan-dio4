@@ -60,10 +60,10 @@ async function main() {
     finalMdString += `
 ## Table of Contents
 
-* [Skills](#Skills)
-* [Projects](#Projects)
+* [Skills](#skills)
+* [Projects](#projects)
 * [Bonus](#bonus)
-* [Index](#Index)
+* [Index](#index)
 * [Contact](#contact)
 
 `

@@ -73,6 +73,11 @@
             "name": "Amazon AWS",
             "badge": "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white",
             "link": "#amazon-aws"
+        },
+        {
+            "name": "Stripe",
+            "badge": "https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white",
+            "link": "#stripe"
         }
     ],
     "expertise": {
@@ -83,7 +88,9 @@
             "Next.js",
             "Expo",
             "Express/Fastify",
-            "Node.js"
+            "Node.js",
+            "Serverless Framework",
+            "Stripe"
         ],
         "databases": [
             "MySQL/PostgreSQL",
@@ -133,7 +140,9 @@
                 "HTML",
                 "CSS",
                 "GraphQL",
-                "IAM"
+                "IAM",
+                "Stripe",
+                "Serverless Framework"
             ],
             "line": "Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules.",
             "links": [
@@ -170,9 +179,10 @@
                 "EC2",
                 "Redis",
                 "Express/Fastify",
-                "IAM"
+                "IAM",
+                "Stripe",
+                "Serverless Framework"
             ],
-            "line": "Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules.",
             "links": [
                 {
                     "name": "Landing Page",

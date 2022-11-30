@@ -25,16 +25,17 @@
 [![GitHub badge PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#mysqlpostgresql)
 [![GitHub badge Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#redis)
 [![GitHub badge Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#amazon-aws)
+[![GitHub badge Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](#stripe)
 
 
 </div>
 
 ## Table of Contents
 
-* [Skills](#Skills)
-* [Projects](#Projects)
+* [Skills](#skills)
+* [Projects](#projects)
 * [Bonus](#bonus)
-* [Index](#Index)
+* [Index](#index)
 * [Contact](#contact)
 
 ## Skills
@@ -48,6 +49,8 @@
 * Expo ([_Index_](#expo))
 * Express/Fastify ([_Index_](#expressfastify))
 * Node.js ([_Index_](#nodejs))
+* Serverless Framework ([_Index_](#serverless-framework))
+* Stripe ([_Index_](#stripe))
 
 **Languages 🔡**
 
@@ -82,8 +85,8 @@
 ### Technical products that I have built
 Name | Description | Technologies | Links
 --- | --- | :---: | :---:
- **<h5>FilmPro</h5>** | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#nextjs), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql), [IAM](#iam) </sup> | <div><a href="https://filmpro.app/" target="_blank"><sup>Splash Page</sup></a><br /><a href="https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200" target="_blank"><sup>iOS App</sup></a><br /><a href="https://play.google.com/store/apps/details?id=app.filmpro.fp" target="_blank"><sup>Android App</sup></a><br /></div>
- **<h5>Easybase</h5>** | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React](#react), [Next.js](#nextjs), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [MySQL/PostgreSQL](#mysqlpostgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#expressfastify), [IAM](#iam) </sup> | <div><a href="https://easybase.io/" target="_blank"><sup>Landing Page</sup></a><br /><a href="https://docs.easybase.io/" target="_blank"><sup>Documentation</sup></a><br /></div>
+ **<h5>FilmPro</h5>** | Easy invoicing + payments for the film & television industry. _Ask me how I created a cross-platform offline PDF viewer for React Native with 0 native modules._ | <sup> [React Native](#react-native), [Expo](#expo), [Next.js](#nextjs), [React](#react), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [DynamoDB](#dynamodb), [Route 53](#route-53), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [GraphQL](#graphql), [IAM](#iam), [Stripe](#stripe), [Serverless Framework](#serverless-framework) </sup> | <div><a href="https://filmpro.app/" target="_blank"><sup>Splash Page</sup></a><br /><a href="https://apps.apple.com/us/app/filmpro-film-tv-invoicing/id6443663969?itsct=apps_box_link&itscg=30200" target="_blank"><sup>iOS App</sup></a><br /><a href="https://play.google.com/store/apps/details?id=app.filmpro.fp" target="_blank"><sup>Android App</sup></a><br /></div>
+ **<h5>Easybase</h5>** | Launch serverless modules for consumer-facing applications with one-click. _(Deprecated)_ | <sup> [React](#react), [Next.js](#nextjs), [TailwindCSS](#tailwindcss), [Cognito](#cognito), [Lambda](#lambda), [S3](#s3), [MySQL/PostgreSQL](#mysqlpostgresql), [Amplify](#amplify), [SES](#ses), [TypeScript/JavaScript](#typescriptjavascript), [HTML](#html), [CSS](#css), [EC2](#ec2), [Redis](#redis), [Express/Fastify](#expressfastify), [IAM](#iam), [Stripe](#stripe), [Serverless Framework](#serverless-framework) </sup> | <div><a href="https://easybase.io/" target="_blank"><sup>Landing Page</sup></a><br /><a href="https://docs.easybase.io/" target="_blank"><sup>Documentation</sup></a><br /></div>
  **<h5>Keagate</h5>** | Open-source, high-performance alternative to popular cryptocurrency payment gateways. | <sup> [Express/Fastify](#expressfastify), [Node.js](#nodejs), [Bash/Shell](#bashshell), [TypeScript/JavaScript](#typescriptjavascript) </sup> | <div><a href="https://github.com/dilan-dio4/Keagate" target="_blank"><sup>Repo</sup></a><br /><a href="https://www.youtube.com/watch?v=dxMZIbeRJac" target="_blank"><sup>Video Demo</sup></a><br /></div>
  **<h5>Wagering Wordle</h5>** | Open-source implementation of Wordle game with wagering & analytics built with Next.js, TailwindCSS… | <sup> [React](#react), [Next.js](#nextjs), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="https://github.com/dilan-dio4/nextjs-tailwind-wordle" target="_blank"><sup>Repo</sup></a><br /><a href="https://nextjs-tailwind-wordle.netlify.app/" target="_blank"><sup>Demo</sup></a><br /></div>
  **<h5>Tulsa</h5>** | Modern, accessible components for React & Next.js. Built with TailwindCSS + HeadlessUI as an altern… | <sup> [React](#react), [TypeScript/JavaScript](#typescriptjavascript), [TailwindCSS](#tailwindcss) </sup> | <div><a href="https://github.com/dilan-dio4/tulsa" target="_blank"><sup>Repo</sup></a><br /><a href="https://dilan-dio4.github.io/tulsa/" target="_blank"><sup>Library</sup></a><br /></div>
@@ -278,6 +281,26 @@ Name | Description | Technologies | Links
 </details><details><summary>
 
 #### **IAM**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **Stripe**
+
+</summary>
+
+* [FilmPro](#filmpro)
+* [Easybase](#easybase)
+
+
+</details><details><summary>
+
+#### **Serverless Framework**
 
 </summary>
 
